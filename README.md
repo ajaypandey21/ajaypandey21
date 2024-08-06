@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JavaScript,React,Next.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajaypandey21](https://github.com/ajaypandey21)
-
 - 💬 Ask me about **Web-Development , JavaScript,React,Node**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ajaypandey21/**
