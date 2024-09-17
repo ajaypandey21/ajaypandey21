@@ -4,12 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypandey21&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypandey21" /> </p>
 
 
-
 - 🔭 I’m currently working on **Cloud Computing and Deployment**
 
-- 🌱 I’m currently learning **JavaScript,React,Next.js and Node.js**
-
-- 💬 Ask me about **Web-Development , JavaScript,React,Node**
+- 💬 Ask me about **Web-Development , JavaScript, Next.js, React, Node**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ajaypandey21/**
 
