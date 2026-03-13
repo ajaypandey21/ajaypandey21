@@ -1,68 +1,37 @@
 <h1 align="center">Hi 👋, I'm Ajay Pandey</h1>
-<h3 align="center">Full-Stack Developer building real-world web applications</h3>
+<h3 align="center">Full-Stack Developer from India</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ajaypandey21&label=Profile%20Views&color=0e75b6&style=flat" />
+<i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
 </p>
 
----
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ajaypandey21&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-### 🧠 Developer Mindset
+- 🔭 Currently working on **Cloud Computing and Deployment**
 
-> “I don’t just write code — I build products people use.”
-
-> “Tutorials teach syntax. Real projects teach engineering.”
-
-> “Ship. Break. Fix. Repeat.”
-
----
-
-### 🚀 Current Focus
-- 🔭 Working on **Cloud Computing & Deployment**
 - 💬 Ask me about **Web Development, JavaScript, React, Next.js, Node.js**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/ajaypandey21/)**
+
+- 📫 Reach me at **https://www.linkedin.com/in/ajaypandey21/**
 
 ---
 
-### 🤝 Connect With Me
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ajaypandey21/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/ajaypandey21/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
-<a href="https://www.instagram.com/ajaypandeyyy21/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<a href="https://www.instagram.com/ajaypandeyyy21/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="35"/>
 </a>
 </p>
 
 ---
 
-### ⚒️ Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,redis,redux,tailwind,bootstrap,git,linux,firebase,python,webpack,babel" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redis,redux,tailwind,bootstrap,git,linux,firebase,python,webpack,babel"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajaypandey21&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypandey21&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-### ⚡ Philosophy
-
-> “Clean code is not written by accident. It is engineered.”
-
-> “The difference between a developer and an engineer is **ownership**.”
-
-> “Build things that survive production.”
