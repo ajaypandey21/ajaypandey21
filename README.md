@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=ajaypandey21&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🔭 Currently working on **Cloud Computing, AWS Infrastructure & Deployment**
+- 🔭 Currently working on **Cloud Computing, AWS Infrastructure, Deployment & System Design**
 
 - 💬 Ask me about **Web Development, JavaScript, React, Next.js, Node.js**
 
